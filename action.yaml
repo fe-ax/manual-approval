@@ -36,4 +36,4 @@ inputs:
     default: ''
 runs:
   using: docker
-  image: docker://ghcr.io/fe-ax/manual-approval:dev
+  image: docker://ghcr.io/shipitsmarter/manual-approval:dev
